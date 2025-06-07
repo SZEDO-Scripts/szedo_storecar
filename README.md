@@ -63,10 +63,3 @@ If you find any bugs or have questions, please open an issue or contact me!
 
 ---
 
-## License 📄
-
-MIT License
-
----
-
-**Created by:** ChatGPT 🤖, customized by **szedo**
